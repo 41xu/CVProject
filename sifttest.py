@@ -1,4 +1,4 @@
 import siftdetector
 import siftmatcher
 
-k,des=siftdetector.detect_keypoints('test.JPG',5)
+siftmatcher.match_template('1.JPG','2.JPG',5,0.7)
