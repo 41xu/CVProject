@@ -1,5 +1,7 @@
-# CVProject
-用来存档计算机视觉课的几次作业
+# CV Project
 
-虽然第一次作业还莫的想法但是先开个坑再慢慢填吧...（反正我也挖了不少坑...)
+My Computer Vision Homework1, about `Image Feature Point Extraction`, `Image Match`, `Linear Match`, `Image Stitching`.
+
+I just tried `SIFT`, `Linear Match` to be continue.
+
 
